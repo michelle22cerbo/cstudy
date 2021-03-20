@@ -9,3 +9,10 @@ public class Main {
  static void myLname() {
     System.out.println("Cerbo");
   }
+public static void main(String[] args) {
+	myMethod();
+	myName();
+	myLname();
+
+  }
+}
